@@ -1,0 +1,6 @@
+running:
+$ ./uscraig.sh 1
+
+1. xampp->start webserver and DB server
+
+2. http://localhost/jaabuu/

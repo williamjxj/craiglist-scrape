@@ -1,0 +1,7 @@
+bak/
+docs/
+html/
+test/
+mysql/
+*.log
+~
